@@ -2,10 +2,10 @@
 ---
 # 📌 Overview:-
 The Student Management System is a Java-based 3-tier dynamic web application built using Servlets and JSP technologies. It provides functionalities to efficiently manage student records, allowing users to:
-✅ Add new students
-✅ Update existing student details
-✅ Find student information by ID
-✅ Delete student records
+✅ Add new students <br>
+✅ Update existing student details <br>
+✅ Find student information by ID <br>
+✅ Delete student records <br>
 
 The system follows a structured Service and DAO (Data Access Object) layer to ensure seamless database operations and maintainability.
 
