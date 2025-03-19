@@ -6,9 +6,6 @@ The Student Management System is a Java-based 3-tier dynamic web application bui
 ✅ Update existing student details <br>
 ✅ Find student information by ID <br>
 ✅ Delete student records <br>
-
-The system follows a structured Service and DAO (Data Access Object) layer to ensure seamless database operations and maintainability. <br>
-
 # 🚀 Features :-
 ---
 ✨ CRUD Operations: Add, Update, Find, and Delete student records. <br>
@@ -17,7 +14,6 @@ The system follows a structured Service and DAO (Data Access Object) layer to en
 ✨ User-Friendly UI: Built with JSP, HTML, CSS, and Bootstrap. <br>
 ✨ Scalable & Maintainable: Service and DAO layers ensure structured database interactions. <br>
 ✨ Web Deployment: Runs on Apache Tomcat server. <br>
-
 # 🛠️ Technologies Used :-
 ---
 🔹 Programming Language: Java (Servlets, JSP) <br>
