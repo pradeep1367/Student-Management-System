@@ -11,13 +11,13 @@ The Student Management System is a Java-based 3-tier dynamic web application bui
 ✨ CRUD Operations: Add, Update, Find, and Delete student records. <br>
 ✨ MVC Architecture: Follows a Model-View-Controller pattern for clean separation of concerns. <br>
 ✨ Database Integration: Uses JDBC with MySQL to store student details securely. <br>
-✨ User-Friendly UI: Built with JSP, HTML, CSS, and Bootstrap. <br>
+✨ User-Friendly UI: Built with JSP, HTML, CSS. <br>
 ✨ Scalable & Maintainable: Service and DAO layers ensure structured database interactions. <br>
 ✨ Web Deployment: Runs on Apache Tomcat server. <br>
 # 🛠️ Technologies Used :-
 ---
 🔹 Programming Language: Java (Servlets, JSP) <br>
-🔹 Database: MySQL (or any relational DB) <br>
+🔹 Database: MySQL <br>
 🔹 Database Connectivity: JDBC <br>
 🔹 Server: Apache Tomcat <br>
 🔹 Frontend: JSP, HTML, CSS <br>
